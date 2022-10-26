@@ -1,5 +1,5 @@
 import {ethers} from "ethers"
-import {contractAddress,abi} from "./assets/constants"
+import {contractAddress,abi} from "./abi/constants"
 import {useState} from 'react'
 import "./App.css"
 function App() {
